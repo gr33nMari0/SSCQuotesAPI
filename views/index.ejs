@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>SSCQuotesAPI</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            margin: 0;
+            padding: 10px;
+        }
+
+        div {
+            margin: 0;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        li {
+            padding: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        Here are the endpoints:
+        <ul>
+            <li><a href="/random/">/random/</a>: Random Stannies quote</li>
+            <li><a href="/random/5/">/random/&lt;integer&gt;/</a>: Specified number of random Stannies quotes, has to be
+                less than or equal to <%= amount %>
+            </li>
+            <li><a href="/all/">/all/</a>: All Stannies quotes</li>
+        </ul>
+    </div>
+</body>
+
+</html>
