@@ -22,7 +22,7 @@ app.use(limiter);
 app.use(cors());
 
 app.get('/', (req, res) => {
-      res.render('index', {amount: numOfQuotes()})
+      res.render('index', { amount: numOfQuotes() })
 })
 
 app.get('/random', (req, res) => {
@@ -30,6 +30,10 @@ app.get('/random', (req, res) => {
 })
 
 app.get('/random/:amount', (req, res) => {
+      res.json(randomQuotes(req.params.amount))
+})
+
+app.get('/random/?number:amount', (req, res) => {
       res.json(randomQuotes(req.params.amount))
 })
 
