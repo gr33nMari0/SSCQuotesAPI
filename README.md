@@ -1,21 +1,17 @@
-# SSC Quotes API!
+# SSC Quotes API with Quotes from the Stannies Community!
 
 Built using ExpressJS framework in NodeJS.
 
 ## Endpoints:
 
 ### Grab a random Stannies quote!
-[https://sscquotes.herokuapp.com/random/](https://sscquotes.herokuapp.com/random/)
+[https://sscquotesapi.herokuapp.com/random/](https://sscquotesapi.herokuapp.com/random/)
 
 ### Grab a specified number of random Stannies quotes!
-[https://sscquotes.herokuapp.com/random/&lt;integer&gt;/](https://sscquotes.herokuapp.com/random/5/)
+[https://sscquotesapi.herokuapp.com/random/&lt;integer&gt;/](https://sscquotesapi.herokuapp.com/random/5/)
 
 ### Grab all Stannies quotes!
-[https://sscquotes.herokuapp.com/all/](https://sscquotes.herokuapp.com/all/)
-
-## Make a contribution!
-
-Would love to make the api better and more efficient if someone is willing to help. Also if I missed a thanos quote, submit a Pull Request, with the quote added to the quotes/quotes.js file.
+[https://sscquotesapi.herokuapp.com/all/](https://sscquotesapi.herokuapp.com/all/)
 
 ## Run Locally
 * Clone the repo
