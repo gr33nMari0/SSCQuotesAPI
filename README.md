@@ -1,4 +1,4 @@
-# SSC Quotes API!
+# SSC Quotes API with Quotes from the Stannies Community!
 
 Built using ExpressJS framework in NodeJS.
 
@@ -12,10 +12,6 @@ Built using ExpressJS framework in NodeJS.
 
 ### Grab all Stannies quotes!
 [https://sscquotes.herokuapp.com/all/](https://sscquotes.herokuapp.com/all/)
-
-## Make a contribution!
-
-Would love to make the api better and more efficient if someone is willing to help. Also if I missed a thanos quote, submit a Pull Request, with the quote added to the quotes/quotes.js file.
 
 ## Run Locally
 * Clone the repo
