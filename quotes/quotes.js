@@ -25,7 +25,7 @@ const quotes = [
   "“Guys ahh, were just gonna watch a errr, a short video to finish off the lesson just cut the chat there boys” - Mr Culnane",
   "“Joyful is spelled goyefull” - Miss Fahy",
   "*Everyone finds random photos of Fahy as a young adult* “Guys, can you just stooooop? Hahahahaha” - Miss Fahy",
-  "Liam: *Breathes* “Liam Cooke, give me your record book. You too Harvey, and Ethan, and Lachy.” - Miss Fahy"
+  "Liam: *Breathes* “Liam Cooke, give me your record book. You too Harvey, and Ethan, and Lachy.” - Miss Fahy",
   "“Shoan, Seen. How do you say that? Shane Farraway?” - Miss Fahy",
   "“Don’t be the big man, cause you're not.” - Mr Welsh",
   "“Let’s get some MarkioKart goin” - Lochie Hughes",
