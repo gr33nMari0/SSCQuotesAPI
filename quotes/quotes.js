@@ -54,7 +54,7 @@ const quotes = [
   "“You belong in the special needs playgroup” - Mr Jessett",
   "“You know what we don’t need? We don’t need kids on meds.” - Alex Clements",
   "“Miss, are you American or Canadian?” - Sean Farraway",
-  "“If you were born in Atlanta does that make you Atlantic?” - Pete Woodhead",
+  "“If you were born in Atlanta does that make you Atlantic?” - Peter Woodhead",
   "*Sean Farraway is being annoying* “Be quiet, annoying orange.” *Whole class goes nuts* - Mrs. Hughes"
 ];
 
