@@ -28,7 +28,7 @@ const quotes = [
   "Liam: *Breathes* “Liam Cooke, give me your record book. You too Harvey, and Ethan, and Lachy.” - Miss Fahy",
   "“Shoan, Seen. How do you say that? Shane Farraway?” - Miss Fahy",
   "“Don’t be the big man, cause you're not.” - Mr Welsh",
-  "“Let’s get some MarkioKart goin” - Lochie Hughes",
+  "“Let’s get some MarioKart goin” - Lochie Hughes",
   "“Do you feel intimidated?” - Year 9 to (insert teacher here)",
   "“Pontious.” *wait a few seconds* “Pilate.” - Ben Watson-Tauaalo",
   "“Gotta plan?” - Ben Watson-Tauaalo",
